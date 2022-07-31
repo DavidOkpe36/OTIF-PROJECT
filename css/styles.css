@@ -1,0 +1,19 @@
+
+*{
+ cursor: pointer;
+ font-family:'Product Sans' sans-serif ;
+}
+#ee ul li{
+    color: white;
+    list-style-type: none;
+    float: right;
+    padding: 15px;
+    
+}
+#bg{
+    background: linear-gradient(122.29deg, #4C38EE 40.13%, rgba(76, 56, 238, 0.3) 133.77%);
+    width: 100%;
+    height: 40%vw;
+}
+
+
